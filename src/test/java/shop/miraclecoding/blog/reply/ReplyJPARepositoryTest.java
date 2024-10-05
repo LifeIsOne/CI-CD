@@ -17,15 +17,15 @@ public class ReplyJPARepositoryTest {
     @Autowired
     private ReplyJPARepository replyJPARepository;
     
-    @Test
-    public void findByBoardId_test(){
-        // given
-        int boardId = 4;
-        
-        // when
-//        List<Reply> replyList = replyJPARepository.findById(boardId);
-        
-        // then
-        System.out.println("findByIdJoinUser_test : ");
-    }
+//    @Test
+//    public void findByBoardId_test(){
+//        // given
+//        int boardId = 4;
+//
+//        // when
+////        List<Reply> replyList = replyJPARepository.findById(boardId);
+//
+//        // then
+//        System.out.println("findByIdJoinUser_test : ");
+//    }
 }
